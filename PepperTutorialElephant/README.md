@@ -2,3 +2,7 @@
 
 In this example, we use the Actuation service to set up an Animate action and we use the mediaPlayer to play a sound that will be triggered on the robot’s speakers. <br>
 https://android.aldebaran.com/doc/elephant_tutorial.html <br>
+<img src="https://github.com/ohwada/Pepper_Android_Tutorial/blob/master/PepperTutorialElephant/docs/elephant.png" width="300" />
+
+### Blog (Japanese)
+http://pepper.ohwada.jp/archives/1275
