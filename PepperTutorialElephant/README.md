@@ -6,6 +6,7 @@ https://android.aldebaran.com/doc/elephant_tutorial.html <br>
 ### Result 
 Pepper mimics the elephant in the robot view, and sounds the cries of the elephant <br>
 <img src="https://github.com/ohwada/Pepper_Android_Tutorial/blob/master/PepperTutorialElephant/docs/elephant.png" width="300" />
+Video [Pepper mimics the elephant in Android emulator](https://www.youtube.com/watch?v=TJwnIFolU2M)
 
 ### Blog (Japanese)
 http://pepper.ohwada.jp/archives/1275
