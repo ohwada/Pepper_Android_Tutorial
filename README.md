@@ -1,10 +1,10 @@
 # Pepper Android Tutorial
 
+Softbank published some sample codes for Pepper SDK for Android. <br>
+Here are some Android studio projects created based on those sample codes. <br>
+
 [Tutorials for Pepper SDK for Android](https://android.aldebaran.com/doc/tutorials.html) <br>
 Some samples allowing you to make Pepper speak, step forward, and much more. <br>
-
-There are the source codes in the site of Softbank. <br>
-Here are some projects created based on those source codes. <br>
 
 - Say “Hello, world!” <br>
 In this example, we use the Interaction service to set up a Say action, in order to make the robot say something. <br>
